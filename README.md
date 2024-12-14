@@ -5,4 +5,6 @@ my custom ai generated script for general day to day tasks
 
 2. [Video Compressor](./Video%20Compressor/)
 
+3. [PDF compressor](./pdf%20compressor/)
+
 **NOTE:** scripts written to work for Ubuntu 22+
